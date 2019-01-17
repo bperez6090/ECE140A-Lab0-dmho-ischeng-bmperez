@@ -1,4 +1,3 @@
-ECE140A-Lab0-dmho-ischeng-bmperez
+ECE140A-Lab0-dmho-bmperez
 Member 1: Danh Ho - dmho18
-Member 2: Ivy Cheng - ischeng-ucsd
-Member 3: Brandon Perez - bmperez-ucsd
+Member 2: Brandon Perez - bmperez-ucsd
